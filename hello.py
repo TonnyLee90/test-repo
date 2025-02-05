@@ -1,0 +1,5 @@
+print("We created a new file here.")
+print("Git doesn't know about this file yet")
+print("We have to tell Git to tack the file")
+print("Use git add file_name")
+print("02/05/2025")
